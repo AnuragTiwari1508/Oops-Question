@@ -5,7 +5,6 @@
 ### Method 1: Using Run Button (Easiest)
 1. Open any `.java` file
 2. You'll see a **"Run"** button above the `main` method
-3. Click it - program will run automatically! ✨
 
 ### Method 2: Right-Click
 1. Open the `.java` file
