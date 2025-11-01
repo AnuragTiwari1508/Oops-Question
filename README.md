@@ -67,13 +67,5 @@ You need to pass arguments. Use terminal:
 java Question24.java 10 12 8 50
 ```
 (length, breadth, height, cost_per_sqm)
-
-### For Question23 (Package):
-First compile and run in this order:
-```powershell
-java Question23.java
-```
-The extension will handle package creation automatically.
-
 ---
 **Created for RedHat Java Extension in VS Code**
